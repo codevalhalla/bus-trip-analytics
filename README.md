@@ -6,16 +6,15 @@ Analyzing bus, location, and trip data to generate insights on bus registrations
 ---
 
 ## Project Structure
-
+```bash
 bus-trip-analytics/
-│
 ├── data/
 │ └── Bus-Trip-Data.xlsx # Excel file containing bus, location, and trip data
 ├── notebooks/
 │ └── bus_trip_queries.ipynb # Jupyter notebook with all queries and analysis
-├── README.md
+├── README.md # Project documentation
 └── .gitignore # Optional
-
+```
 
 
 ---
