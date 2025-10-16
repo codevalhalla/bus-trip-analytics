@@ -52,12 +52,12 @@ git clone git@github.com:<your-username>/bus-trip-analytics.git
 ```
 #### 2. Navigate to the repo:
 
-`inline cd bus-trip-analytics `
+` cd bus-trip-analytics `
 
 
 #### 3. Open the notebook in Jupyter:
 
-'inline jupyter notebook notebooks/bus_trip_queries.ipynb`
+' jupyter notebook notebooks/bus_trip_queries.ipynb`
 
 
 #### 4. Run all cells to view the results.
